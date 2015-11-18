@@ -16,16 +16,20 @@ public final class R {
         public static final int setting512=0x7f020002;
     }
     public static final class id {
-        public static final int frame=0x7f050003;
-        public static final int imgConfig=0x7f050002;
-        public static final int imgHome=0x7f050000;
-        public static final int listView1=0x7f050004;
-        public static final int txtTitulo=0x7f050001;
+        public static final int frame=0x7f050004;
+        public static final int imgConfig=0x7f050003;
+        public static final int imgHome=0x7f050001;
+        public static final int listView1=0x7f050000;
+        public static final int txtTitulo=0x7f050002;
     }
     public static final class layout {
-        public static final int item=0x7f030000;
-        public static final int telabase=0x7f030001;
-        public static final int telaprincipal=0x7f030002;
+        public static final int config=0x7f030000;
+        public static final int gps=0x7f030001;
+        public static final int home=0x7f030002;
+        public static final int item=0x7f030003;
+        public static final int loja=0x7f030004;
+        public static final int services=0x7f030005;
+        public static final int telabase=0x7f030006;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
