@@ -2,13 +2,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center_vertical"
+    android:gravity="top"
     android:orientation="vertical" >
 
     <ListView
-        android:id="@+id/listView1"
+        android:id="@+id/listServices"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:divider="@color/background" >
+
     </ListView>
 
 </LinearLayout>
